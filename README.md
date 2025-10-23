@@ -1,8 +1,7 @@
 # 🇧🇩 Bengali Fonts
 
-![Font Dump](https://img.shields.io/badge/বাংলা-006a4e?logoColor=ffffff)
-![Font Dump](https://img.shields.io/badge/ফন্ট-ff0000?logoColor=ffffff)
-![Font Types](https://img.shields.io/badge/TTF%20%7C%20OTF-included-blue)
+![Font Dump](https://img.shields.io/badge/Bangla-Fonts-006a4e?logoColor=ffffff)
+![Font Types](https://img.shields.io/badge/TTF%20%7C%20OTF-included-ff0000)
 
 A curated collection of Bengali fonts for Linux, design, publishing, and localization workflows. Includes Unicode-compliant fonts, legacy ANSI fonts, and variable/static weights—organized for sparse install and zero-residue setup.
 
